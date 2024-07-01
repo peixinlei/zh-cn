@@ -12,9 +12,9 @@ redirect_from:
 
 # 👀 个人简介
 
-我现在是一名大数据开发工程师，在[联通(山东)产业互联网有限公司/联通数字科技有限公司山东省分公司](https://www.cudt.com.cn/)工作，这是一家[中国联合网络通信集团(中国联通集团)](https://www.chinaunicom.com.hk/en/global/home.php) <img src='./images/ChinaUnicom.png' style='width: 6em;'>的全资子公司。在此之前，我先后在2020年6月和2023年6月在[山东财经大学](https://www.sdufe.edu.cn/)<img src='./images/SDUFE.png' style='width: 6em;'>的[计算机科学与技术学院](https://en.cs.sdufe.edu.cn/)获得了计算机专业的学士和硕士学位。
+我现在是一名大数据开发工程师，在[联通(山东)产业互联网有限公司/联通数字科技有限公司山东省分公司](https://www.cudt.com.cn/)工作，这是一家[中国联合网络通信集团有限公司(中国联通)](https://www.chinaunicom.com.cn/) <img src='./images/ChinaUnicom.png' style='width: 6em;'>的全资子公司。在此之前，我先后在2020年6月和2023年6月在[山东财经大学](https://www.sdufe.edu.cn/)<img src='./images/SDUFE.png' style='width: 6em;'>的[计算机科学与技术学院](https://cs.sdufe.edu.cn/)获得了计算机专业的学士和硕士学位。
 
-我的研究兴趣十分广泛，包括：深度学习、信息检索等等。硕士期间，我在[刘峥教授](https://cs.sdufe.edu.cn/info/1506/3458.htm)的指导下专注于跨模态检索方向(例如：图像-文本匹配)的研究并发表了一些[学术论文](https://scholar.google.com/citations?user=A6Sd5csAAAAJ)。未来，我也有可能积极寻求攻读博士学位的机会😉，您可以下载并查看我的<a href='./pdf/Resume.pdf'><img src="https://img.shields.io/badge/-中文版简历-299DE7?logo=gitbook&logoColor=white"></a>。
+我的研究兴趣十分广泛，包括：深度学习、信息检索等等。硕士期间，我在[刘峥教授](https://cs.sdufe.edu.cn/info/1506/3458.htm)的指导下专注于跨模态检索方向(例如：图像-文本匹配)的研究并发表了一些[学术论文](https://scholar.google.com/citations?user=A6Sd5csAAAAJ)。未来，我也有可能积极寻求攻读博士学位的机会😉，您可以下载并查看我的<a href='./pdf/简历.pdf'><img src="https://img.shields.io/badge/-中文版简历-299DE7?logo=gitbook&logoColor=white"></a>。
 
 <span class='anchor' id='-news'></span>
 # 🔥 相关信息
