@@ -240,12 +240,14 @@ Zheng Liu, Shaojing Yuan, `Xinlei Pei`, Shanshan Gao, Huijian Han.
 - 2020年山东财经大学研究生`二等学业奖学金`.
 - 2016年-2019年山东财经大学本科生`二等学业奖学金`, 4次.
 
+<span class='anchor' id='-educations'></span>
 # 🎓 教育信息
 
 - <span style="display: inline-block; width: 159px;">*2020.09 - 2023.06*, M.S.</span> <a href="https://www.sdufe.edu.cn/"><img class="svg" src="/images/logo.svg" width="20pt" /></a> 山东财经大学, 计算机科学与技术学院, 中国济南.
 
 - <span style="display: inline-block; width: 159px;">*2016.09 - 2020.06*, B.S.</span> <a href="https://www.sdufe.edu.cn/"><img class="svg" src="/images/logo.svg" width="20pt" /></a> 山东财经大学, 计算机科学与技术学院, 中国济南.
 
+<span class='anchor' id='-blogs'></span>
 # 📝 个人博客
 
 - 🚩 [JDBC Learning Record-1](https://www.cnblogs.com/boreas-pxl/p/18124520)
