@@ -16,6 +16,7 @@ redirect_from:
 
 我的研究兴趣十分广泛，包括：深度学习、信息检索等等。硕士期间，我在[刘峥教授](https://cs.sdufe.edu.cn/info/1506/3458.htm)的指导下专注于跨模态检索方向(例如：图像-文本匹配)的研究并发表了一些[学术论文](https://scholar.google.com/citations?user=A6Sd5csAAAAJ)。未来，我也有可能积极寻求攻读博士学位的机会😉，您可以下载并查看我的<a href='./pdf/Resume.pdf'><img src="https://img.shields.io/badge/-中文版简历-299DE7?logo=gitbook&logoColor=white"></a>。
 
+<span class='anchor' id='-news'></span>
 # 🔥 相关信息
 
 - *2024.02*: 🔔 一篇论文被***Applied Soft Computing***接收 !! [\[期刊\]](https://www.sciencedirect.com/science/article/abs/pii/S1568494624001698)
@@ -27,7 +28,7 @@ redirect_from:
 - *2023.02*: 🎯 一篇论文被***Sensors***接收 !! [\[期刊\]](https://www.mdpi.com/1424-8220/23/5/2559)
 - *2022.12*: 💎 一篇论文被***Expert Systems with Applications***接收 !! [\[期刊\]](https://www.sciencedirect.com/science/article/abs/pii/S0957417422024344)
 
-
+<span class='anchor' id='-publications'></span>
 # 📝 学术成果
 
 <div class='paper-box'>
@@ -212,6 +213,7 @@ Zheng Liu, Shaojing Yuan, `Xinlei Pei`, Shanshan Gao, Huijian Han.
 [🌐 [链接](https://scientiairanica.sharif.edu/article_23224.html)] | [📄 [下载](https://scientiairanica.sharif.edu/article_23224_abb29593d4c9411c45708d6469aead94.pdf)]
 </div>
 
+<span class='anchor' id='-honors-and-awards'></span>
 # 🏆 荣誉奖项
 
 ### 👑 荣誉称号
