@@ -6,30 +6,30 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "唐健"
-description              : "电磁无损检测"
-repository               : "tangjyan/tangjyan.github.io"
+title                    : "裴新蕾"
+description              : "对深度学习、信息检索、数据挖掘、多模态大语言模型等感兴趣。"
+repository               : "peixinlei/peixinlei.github.io"
 google_scholar_stats_use_cdn : false
 
 # google analytics
-google_analytics_id      :  # get google_analytics_id from https://analytics.google.com/analytics/
+google_analytics_id      :   
 
 # SEO Related
-google_site_verification :  fQZQD0EwLaSOrp3EbALt2rjxHEY9pUvWuh1fS96xgNk # get google_site_verification from https://search.google.com/search-console/about
-bing_site_verification   : 56D1B3DBCF345410DA9431AFE01788E7 # get bing_site_verification from https://www.bing.com/webmasters/about
-baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.baidu.com/login/index?u=/site/index
+google_site_verification :  
+bing_site_verification   : 
+baidu_site_verification  :  
 
 # Site Author
 author:
-  name             : "唐健"
+  name             : "裴新蕾"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "华中科技大学"
-  location         : "湖北 武汉"
-  employer         : #"Hefei General Machinery Research Institute"
+  bio              : "一个AI爱好者 💡"
+  location         : "山东 济南"
+  employer         : 
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=WMkMTb4AAAAJ"
-  email            : "tangj@hust.edu.cn"
-  researchgate     : "https://www.researchgate.net/profile/Jian-Tang-53"
+  googlescholar    : "https://scholar.google.com/citations?user=A6Sd5csAAAAJ"
+  email            : "peixinlei1998@gmail.com"
+  researchgate     : 
   uri              : 
   bitbucket        :
   codepen          :
@@ -37,18 +37,18 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "tangjyan"
+  github           : "peixinlei"
   google_plus      :
   keybase          :
   instagram        :
-  impactstory      : # e.g., "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
+  impactstory      : 
   lastfm           :
-  linkedin         : # e.g., "linkedin username"
-  dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
-  orcid            : "https://orcid.org/0000-0001-9658-209X"
+  linkedin         : 
+  dblp             : 
+  orcid            : 
   pinterest        :
   soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
+  stackoverflow    : 
   steam            :
   tumblr           :
   twitter          : 
