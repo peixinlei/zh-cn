@@ -15,5 +15,8 @@ main:
   - title: "教育信息"
     url: "/zh-cn/#-educations"
 
+  - title: "技术技能"
+    url: "/zh-cn/#-skills"
+    
   - title: "个人博客"
     url: "/zh-cn/#-blogs"
