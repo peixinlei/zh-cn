@@ -247,6 +247,26 @@ JCR: **2区**, 中科院: 4区 | 影响因子: 1.4 | 第二作者，导师一作
 
 - <span style="display: inline-block; width: 159px;">*2016.09 - 2020.06*, B.S.</span> <a href="https://www.sdufe.edu.cn/"><img class="svg" src="/images/logo.svg" width="20pt" /></a> 山东财经大学, 计算机科学与技术学院, 中国济南.
 
+<span class='anchor' id='-skills'></span>
+# 🚀 技术技能
+
+### 💻 编程
+
+- Python, MATLAB, Shell (**掌握**)
+- Java, SQL, JavaScript, HTML/CSS (熟悉)
+- C, C++, Lua, Ruby (了解)
+
+### 🧰 框架 & 工具:
+
+- PyTorch, PaddlePaddle, Pandas, Scikit-learn (**掌握**)
+- Huggingface-transformers, LangChain, TensorFlow, Mysql (熟悉)
+- Hadoop, Kafka, Zookeeper, Redis, SpringBoot (了解)
+
+### 📌 其他:
+
+- 英语六级
+- LaTeX, Markdown, PowerPoint, Excel, Visio
+
 <span class='anchor' id='-blogs'></span>
 # 📝 个人博客
 
