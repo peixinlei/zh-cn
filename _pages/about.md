@@ -259,7 +259,7 @@ JCR: **2区**, 中科院: 4区 | 影响因子: 1.4 | 第二作者，导师一作
 ### 🧰 框架 & 工具:
 
 - PyTorch, PaddlePaddle, Pandas, Scikit-learn (**掌握**)
-- Huggingface-transformers, LangChain, TensorFlow, Mysql (熟悉)
+- Huggingface-transformers, LangChain, TensorFlow, Mysql, Git (熟悉)
 - Hadoop, Kafka, Zookeeper, Redis, SpringBoot (了解)
 
 ### 📌 其他:
