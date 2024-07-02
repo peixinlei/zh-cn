@@ -29,8 +29,9 @@ redirect_from:
 - *2022.12*: 💎 一篇论文被***Expert Systems with Applications***接收 !! [\[期刊\]](https://www.sciencedirect.com/science/article/abs/pii/S0957417422024344)
 
 <span class='anchor' id='-publications'></span>
-# 📝 学术成果
+# 📚 研究成果
 
+### 📝 学术论文
 <div class='paper-box'>
   <div class='paper-box-image'><div><div class="badge">Expert Syst. Appl. 2023</div>
     <div class="slideshow-container">
@@ -212,6 +213,13 @@ Zheng Liu, Shaojing Yuan, `Xinlei Pei`, Shanshan Gao, Huijian Han.
 JCR: **2区**, 中科院: 4区 | 影响因子: 1.4 | 第二作者，导师一作  
 [🌐 [链接](https://scientiairanica.sharif.edu/article_23224.html)] | [📄 [下载](https://scientiairanica.sharif.edu/article_23224_abb29593d4c9411c45708d6469aead94.pdf)]
 </div>
+
+### 📝 专利&软著
+
+- 基于联合层次化互补语义信息的跨模态检索系统, 登记号: 2022SR0859451, 中华人民共和国国家版权局. (**第一完成人**)
+- 基于多弹簧平衡系统的跨模态相似度优化系统, 登记号: 2022SR0859478, 中华人民共和国国家版权局. (**第一完成人**)
+- 基于多模态多粒度层次化语义增强的跨模态检索系统, 登记号: 2022SR0952319, 中华人民共和国国家版权局. (**第一完成人**)
+- 基于多粒度近邻化语义增强的跨模态检索系统, 登记号: 2022SR0951911, 中华人民共和国国家版权局. (**第二完成人**)
 
 <span class='anchor' id='-honors-and-awards'></span>
 # 🏆 荣誉奖项
