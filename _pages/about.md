@@ -30,7 +30,6 @@ redirect_from:
 
 <span class='anchor' id='-publications'></span>
 # 📚 研究成果
-
 ### 📝 学术论文
 <div class='paper-box'>
   <div class='paper-box-image'><div><div class="badge">Expert Syst. Appl. 2023</div>
@@ -212,7 +211,7 @@ Zheng Liu, Shaojing Yuan, `Xinlei Pei`, Shanshan Gao, Huijian Han.
 ***Scientia Iranica***, 2023, 30(5): 1645-1669.  
 JCR: **2区**, 中科院: 4区 | 影响因子: 1.4 | 第二作者，导师一作  
 [🌐 [链接](https://scientiairanica.sharif.edu/article_23224.html)] | [📄 [下载](https://scientiairanica.sharif.edu/article_23224_abb29593d4c9411c45708d6469aead94.pdf)]
-</div>
+</div><br>
 
 ### 💾 专利&软著
 
