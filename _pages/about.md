@@ -59,7 +59,7 @@ redirect_from:
   <strong><font color="#374798">Complementarity is the king: Multi-modal and multi-grained hierarchical semantic enhancement network for cross-modal retrieval</font></strong>  
   `Xinlei Pei`, Zheng Liu, Shanshan Gao, Yijun Su.  
   ***Expert Systems with Applications***, 2023, 216: 119415  
-  **JCR: 1区, 中科院1区Top** | 影响因子: **8.6** | **第一作者** | **CCF-C**  
+  JCR: **1区**, 中科院: **1区Top** | 影响因子: **8.6** | **第一作者** | **CCF-C**  
   [🌐 [链接](https://www.sciencedirect.com/science/article/abs/pii/S0957417422024344)] | [📄 [下载](/pdf/M2HSE.pdf)] | [🛠 [代码](https://github.com/peixinlei/M2HSE)] | [![](https://img.shields.io/github/stars/peixinlei/M2HSE?style=social)](https://github.com/peixinlei/M2HSE)
   </div>
 </div>
@@ -85,7 +85,7 @@ redirect_from:
   <strong><font color="#374798">Perceive, Reason, and Align: Context-guided cross-modal correlation learning for image–text retrieval</font></strong>  
   Zheng Liu, `Xinlei Pei`, Shanshan Gao, Changhao Li, Jingyao Wang, Junhao Xu.  
   ***Applied Soft Computing***, 2024, 154: 111395.  
-  **JCR: 1区, 中科院1区Top** | 影响因子: **8.7** | 第二作者，导师一作  
+  JCR: **1区**, 中科院: **1区Top** | 影响因子: **8.7** | 第二作者，导师一作  
   [🌐 [链接](https://www.sciencedirect.com/science/article/abs/pii/S1568494624001698)] | [📄 [下载](/pdf/CCCL.pdf)]
   </div>
 </div>
@@ -193,7 +193,7 @@ redirect_from:
 <strong><font color="#374798">FB-Net: Dual-Branch Foreground-Background Fusion Network With Multi-Scale Semantic Scanning for Image-Text Retrieval</font></strong>  
 Junhao Xu, Zheng Liu, `Xinlei Pei`, Shuhuai Wang, Shanshan Gao.  
 ***IEEE ACCESS***, 2023, 11: 36516-36537.  
-**JCR: 2区, 中科院3区** | 影响因子: 3.9 | 第二作者，导师二作  
+JCR: **2区**, 中科院: 3区 | 影响因子: 3.9 | 第二作者，导师二作  
 [🌐 [链接](https://ieeexplore.ieee.org/abstract/document/10089456)] | [📄 [下载](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10089456)]
 </div>
 
@@ -201,7 +201,7 @@ Junhao Xu, Zheng Liu, `Xinlei Pei`, Shuhuai Wang, Shanshan Gao.
 <strong><font color="#374798">HAAN: Learning a Hierarchical Adaptive Alignment Network for Image-Text Retrieval</font></strong>  
 Shuhuai Wang, Zheng Liu, `Xinlei Pei`, Junhao Xu.  
 ***Sensors***, 2023, 23(5): 2559.  
-**JCR: 2区, 中科院3区** | 影响因子: 3.9 | 第二作者，导师二作  
+JCR: **2区**, 中科院: 3区 | 影响因子: 3.9 | 第二作者，导师二作  
 [🌐 [链接](https://www.mdpi.com/1424-8220/23/5/2559)] | [📄 [下载](https://www.mdpi.com/1424-8220/23/5/2559/pdf?version=1677656514)]
 </div>
 
@@ -209,7 +209,7 @@ Shuhuai Wang, Zheng Liu, `Xinlei Pei`, Junhao Xu.
 <strong><font color="#374798">Cross-media retrieval via fusing multi-modality and multi-grained data</font></strong>  
 Zheng Liu, Shaojing Yuan, `Xinlei Pei`, Shanshan Gao, Huijian Han.  
 ***Scientia Iranica***, 2023, 30(5): 1645-1669.  
-**JCR: 2区, 中科院4区** | 影响因子: 1.4 | 第二作者，导师一作  
+JCR: **2区**, 中科院: 4区 | 影响因子: 1.4 | 第二作者，导师一作  
 [🌐 [链接](https://scientiairanica.sharif.edu/article_23224.html)] | [📄 [下载](https://scientiairanica.sharif.edu/article_23224_abb29593d4c9411c45708d6469aead94.pdf)]
 </div>
 
