@@ -257,7 +257,7 @@ JCR: **2区**, 中科院: 4区 | 影响因子: 1.4 | 第二作者，导师一作
 <span class='anchor' id='-skills'></span>
 # 🚀 技术技能
 
-### 💻 编程
+### 💻 编程语言
 
 - Python, MATLAB, Shell (**掌握**)
 - Java, SQL, JavaScript, HTML/CSS (熟悉)
@@ -265,8 +265,8 @@ JCR: **2区**, 中科院: 4区 | 影响因子: 1.4 | 第二作者，导师一作
 
 ### 🧰 框架 & 工具:
 
-- PyTorch, PaddlePaddle, Pandas, Scikit-learn (**掌握**)
-- Huggingface-transformers, LangChain, TensorFlow, Mysql, Git (熟悉)
+- PyTorch, PaddlePaddle, Pandas, Scikit-learn, Scikit-learn, Keras, Jupyter Lab/Notebook, Git (**掌握**)
+- Huggingface-transformers, LangChain, TensorFlow, Mysql (熟悉)
 - Hadoop, Kafka, Zookeeper, Redis, SpringBoot (了解)
 
 ### 📌 其他:
