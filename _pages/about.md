@@ -259,9 +259,9 @@ JCR: **2区**, 中科院: 4区 | 影响因子: 1.4 | 第二作者，导师一作
 
 ### 💻 编程语言
 
-- Python, MATLAB, Shell (**掌握**)
+- Python, MATLAB, Shell/Bash (**掌握**)
 - Java, SQL, JavaScript, HTML/CSS (熟悉)
-- C, C++, Lua, Ruby (了解)
+- C/C++, Lua, Ruby (了解)
 
 ### 🧰 框架 & 工具:
 
