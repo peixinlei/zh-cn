@@ -195,7 +195,7 @@ redirect_from:
 <strong><font color="#374798">FB-Net: Dual-Branch Foreground-Background Fusion Network With Multi-Scale Semantic Scanning for Image-Text Retrieval</font></strong>  
 Junhao Xu, Zheng Liu, `Xinlei Pei`, Shuhuai Wang, Shanshan Gao.  
 ***IEEE Access***, 2023, 11: 36516-36537.  
-JCR: **2区**, 中科院: 3区 | 影响因子: 3.9 | 第二作者，导师二作  
+JCR: **2区**, 中科院: 3区 | 影响因子: 3.9 | 第三作者，导师二作  
 [🌐 [链接](https://ieeexplore.ieee.org/abstract/document/10089456)] | [📄 [下载](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10089456)]
 </div>
 
@@ -203,7 +203,7 @@ JCR: **2区**, 中科院: 3区 | 影响因子: 3.9 | 第二作者，导师二作
 <strong><font color="#374798">HAAN: Learning a Hierarchical Adaptive Alignment Network for Image-Text Retrieval</font></strong>  
 Shuhuai Wang, Zheng Liu, `Xinlei Pei`, Junhao Xu.  
 ***Sensors***, 2023, 23(5): 2559.  
-JCR: **2区**, 中科院: 3区 | 影响因子: 3.9 | 第二作者，导师二作  
+JCR: **2区**, 中科院: 3区 | 影响因子: 3.9 | 第三作者，导师二作  
 [🌐 [链接](https://www.mdpi.com/1424-8220/23/5/2559)] | [📄 [下载](https://www.mdpi.com/1424-8220/23/5/2559/pdf?version=1677656514)]
 </div>
 
@@ -211,7 +211,7 @@ JCR: **2区**, 中科院: 3区 | 影响因子: 3.9 | 第二作者，导师二作
 <strong><font color="#374798">Cross-media retrieval via fusing multi-modality and multi-grained data</font></strong>  
 Zheng Liu, Shaojing Yuan, `Xinlei Pei`, Shanshan Gao, Huijian Han.  
 ***Scientia Iranica***, 2023, 30(5): 1645-1669.  
-JCR: **2区**, 中科院: 4区 | 影响因子: 1.4 | 第二作者，导师一作  
+JCR: **2区**, 中科院: 4区 | 影响因子: 1.4 | 第三作者，导师一作  
 [🌐 [链接](https://scientiairanica.sharif.edu/article_23224.html)] | [📄 [下载](https://scientiairanica.sharif.edu/article_23224_abb29593d4c9411c45708d6469aead94.pdf)]
 </div><br>
 
