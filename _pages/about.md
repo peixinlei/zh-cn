@@ -20,10 +20,12 @@ redirect_from:
 -->
 <span class='anchor' id='-news'></span>
 # 🔥 相关信息
-
+- *2025.06*: 💯 完成**山东联通AI大模型课任讲师**认证!!
+- *2025.03*: 🛩️ 转入AI中心从事AI/大模型应用研发工程师 !!
+- *2024.12*: 🥁 入选2024至2026年度**山东联通青年托举工程** !!
 - *2024.02*: 🔔 一篇论文被***Applied Soft Computing***接收 !! [\[期刊\]](https://www.sciencedirect.com/science/article/abs/pii/S1568494624001698)
 - *2023.10*: 🎁 获得山东财经大学**优秀硕士毕业论文** !! [\[公示\]](https://yjsy.sdufe.edu.cn/info/1031/3784.htm)
-<!-- - *2023.08*: 💻 加入***中国联通***做大数据开发工程师 !! -->
+- *2023.08*: 💻 加入**中国联通山东产互/数科山分**做大数据开发工程师 !! 
 - *2023.06*: 👔 硕士论文答辩，再见了我的学生时代 !!
 - *2023.05*: ⚡ 一篇论文被***Scientia Iranica***接收 !! [\[期刊\]](https://scientiairanica.sharif.edu/article_23224.html)
 - *2023.03*: 🎉 一篇论文被***IEEE Access***接收 !! [\[期刊\]](https://www.sciencedirect.com/science/article/abs/pii/S1568494624001698)
