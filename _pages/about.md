@@ -290,4 +290,6 @@ JCR: **2区**, 中科院: 4区 | 影响因子: 1.4 | 第三作者，导师一作
 
 - 🚩 [JDBC Learning Record-1](https://www.cnblogs.com/boreas-pxl/p/18124520)
 - 🚩 [JDBC Learning Record-2](https://www.cnblogs.com/boreas-pxl/p/18129432)
+- 🚩 [大模型微调教程——理论篇](https://www.cnblogs.com/boreas-pxl/p/18961623)
+- 🚩 [大模型微调教程——实战篇](https://www.cnblogs.com/boreas-pxl/p/18797698)
 - 🚥 其他...
